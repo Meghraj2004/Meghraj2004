@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meghraj Dabdgavhal</h1>
+<h1 align="center">Hi 👋, I'm Megharaj Dandgavhal</h1>
 <h3 align="center">A passionate IT specilist & Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Megharaj2004&label=Profile%20views&color=0e75b6&style=flat" alt="Megharaj2004" /> </p>
