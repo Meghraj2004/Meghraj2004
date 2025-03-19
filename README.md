@@ -1,5 +1,38 @@
-# 💫 About Me:
-👋 Hey there! I'm Meghraj Dandgavhal<br>💻 Tech Enthusiast | Full-Stack Developer | Problem Solver<br><br>🚀 Passionate about building scalable web and mobile applications.<br>🎯 Always exploring new technologies and solving real-world problems.<br>📚 Constant learner, currently diving deeper into React.js, Node.js, Spring Boot, and Android Development.<br><br>🛠️ Tech Stack:<br>🌐 Frontend: HTML5, CSS3, JavaScript, React.js, Bootstrap<br>⚙️ Backend: Node.js, Express.js, Spring Boot<br>🗄️ Databases: MySQL, MongoDB<br>🔍 Data Science & ML Enthusiast<br>📱 Android Development<br>🔥 Featured Projects:<br>🛍️ MensFyt – Personalized fashion e-commerce platform for men.<br>🔑 Graphical Password Authentication – Enhanced security with multi-layer authentication.<br>🍽️ Restaurant Reservation System – Real-time table booking with a seamless user experience.<br>🌍 Disaster Response Platform – Emergency coordination with live updates & volunteer management.<br>🏆 Achievements:<br>🥉 2nd Runner-Up – Innovision Avinya Hackathon 2.0 & 3.0<br>🎖️ Smart India Hackathon Finalist<br>👨‍💻 VCET Hackathon Participant<br>📫 Let's Connect:<br><br>
+💫 About Me
+👋 Hey there! I'm Meghraj Dandgavhal
+💻 Tech Enthusiast | Full-Stack Developer | Problem Solver
+
+🚀 Passionate about building scalable and efficient web & mobile applications.
+🎯 Exploring new technologies to solve real-world problems and enhance user experiences.
+📚 Currently diving deeper into React.js, Node.js, Spring Boot, and Android Development.
+
+🛠️ Tech Stack
+🔹 Frontend:
+
+🔹 Backend:
+
+🔹 Databases:
+
+🔹 Other Interests:
+📊 Data Science & ML Enthusiast | 📱 Android Development
+
+🚀 Featured Projects
+🔹 🛍️ MensFyt – Personalized fashion e-commerce platform for men.
+🔹 🔑 Graphical Password Authentication – Multi-layer security authentication system.
+🔹 🍽️ Restaurant Reservation System – Real-time table booking with seamless UX.
+🔹 🌍 Disaster Response Platform – Emergency coordination with live updates & volunteer management.
+
+🏆 Achievements
+🏅 2nd Runner-Up – Innovision Avinya Hackathon 2.0 & 3.0
+🎖️ Smart India Hackathon Finalist
+👨‍💻 VCET Hackathon Participant
+
+📫 Let's Connect
+💼 LinkedIn: Your LinkedIn Profile
+📧 Email: your.email@example.com
+🚀 Portfolio: Your Portfolio Website
+
+Feel free to reach out! Let's build something amazing together! 🚀✨
 
 
 ## 🌐 Socials:
