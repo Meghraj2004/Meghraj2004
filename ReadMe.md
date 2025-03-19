@@ -27,7 +27,8 @@
 ---
 
 ## 🏆 Achievements:  
-🥉 **2nd Runner-Up** – *Innovision Avinya Hackathon 2.0 & 3.0*  
+🥉 **2nd Runner-Up** – *Innovision Avinya Hackathon 2024 & 2025*  
+🏅 **Awarded on Annual Prize Day** for winning **Innovision Avinya Hackathon** at my college  
 🎖️ **Smart India Hackathon Finalist**  
 👨‍💻 **VCET Hackathon Participant**  
 
