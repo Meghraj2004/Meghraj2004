@@ -38,7 +38,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/megharaj_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MegharajDandgavhal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megharajdandgavhal2004@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?logo=firefox&logoColor=white)](https://meghportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?logo=firefox&logoColor=white)](https://meghportfolio.onrender.com)
 
 
 # 💻 Tech Stack:
