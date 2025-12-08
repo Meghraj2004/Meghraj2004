@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack:  
-🔹 **Frontend:** *HTML5, CSS3, JavaScript, React.js, Bootstrap*  
+🔹 **Frontend:** *HTML5, CSS3, JavaScript, React.js, Bootstrap, nextJs*  
 ⚙️ **Backend:** *Node.js, Express.js, Spring Boot*  
 🗄️ **Databases:** *MySQL, MongoDB*  
 🔍 **Data Science & ML Enthusiast**  
